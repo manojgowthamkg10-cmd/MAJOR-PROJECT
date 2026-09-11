@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "earlydetectionchronicdiseases",
+  "private_key_id": "8c8583dda4c5a46c1fcb934d27eb277bfc1bd04c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCs9MMU4OPB5NZN\nPLRux+34ONhS3rFdX0U14poS9dJMiXcehuVnw1D+y/NyXq9yRmFA8n/A2gK6G8Gf\nP9YZgcY0PuEeqm69sIyy0fIjC+ssM9FJQr+4dNEFAGIo962SZrdTDftnxhCxjNWb\n8rKgHVvIbWO9LvrE3usFkfWkl9mgqmcWuxWvPPeDI2z4jx5xUWH5Vnc5kkb0hUGj\nJnqMdEa4e9H8RkPvO99O/FJAK1zYW2Dln67eXfWM2sc6jFteQjRT4fUhzkieX+OT\nmvf6H7lHNNww9Su2d0HU8PB9oIcTEII+PeD6qwRaGGBYGKLD8eFNXI8eDNKXaNGS\n2LpSmzVbAgMBAAECggEAAKeMdW/EbN9o0DICnMi05dORPf8JvMi3glSxMJEtkoyS\nntLz20ip7cznxu8EyvHpPE2unhQ1Hm8sdGXRcZdEIL58K5mJgb5BSgvxVqCc6zXm\n/Nf70b7fa51swaruRTeOSgorgWEGfyWBSW3Jr0FtL3z6e6TJ3iTZztOWkmDgufLp\niJUmqu5DibKhNZRj0erntJUpl2KVfyMF3xJXAvN4bRZa68WrKkrCYDGDaNRRj4qK\nwjqfvcI4IB5rnbCRiu6XxDw+Z89UKUcpWwecu1rBy35cWTM4JOJnUeuaV55P3J3m\ntTWnpL7BmKagv+QBGECPHhl1va5EYNdqBdSO1gEhwQKBgQDe9MpVxA2shoizgKye\n4pSAsjiObCfuqCUuuMNKFtHusfR/1AnsMT8U4KAtlky9DQ7yLWGv9LtfARJS4GpE\njIBVungvXiyJKUZvN7b99C5YwA38Sd9iIQtBwnCal/bHjvSJtASOBmH5wrM51rea\nLL8F5z7Q2C10YD6ek3kMujuARwKBgQDGlulD9pw6gp/7URKaFC7RSlmZyRr7ru+M\nn9jH5q9ftTS7UOrb6WuV1bNDRw20lYPdaFz+hIO9bEB4XhJdh0t4lUYDpPA6s7vl\ntbrus+PNsEgR54gDSHgtKEIhBgUflu8/psCzktcj+kKsKeQlOqce2SIJe4qpdVCI\nbDGSLQ1gTQKBgFUyLzsUvrDle8kz60KPjHWdJLVvqNauk/7FhYKDM9dFUwuhp+UE\ncHl22F5zJ4G6QrLSGpkVKKBGFY1ryc/F7KhVp+VZ1CTZi9ul65whObCaOv3j8KNb\nwyRuu36ngRqCivkvu+nVkIzTFI+Od/xHCvujgMJnSP9GY8dOzRvK8j+zAoGBAKT3\nbdTYQlVUd2NEqKg3xeBz29SlO3YBjtsJWgJM/jgKBkDoagC+eXGhcOWdW6Q8Y6sD\n6+Q93lX3W+Lhem4ZWrdTgTK7zBdngNnESgHKi50tJ+E/rTvU8ofIno5iOtVQA3Sj\nqAZEH9WyKbpsninS/Eri4qRv7PLyEjERd2hPZoItAoGAVGYY6y6VtXJ6a6uWcFCc\noWVWKNN3fmV+HL3lTI+GjPgkYzottg1hgtOuYR/1CfzqS9bC+8/lSDQ1E9gIDKGq\n4+/bOfu+Xa1Es4Aj55iBDVeSeA+pqt91tG5jxmqVmhHFw5yQdYcS+au9mOXgRiVJ\nKbKWotKCN5uUTLRZ3eENTE4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@earlydetectionchronicdiseases.iam.gserviceaccount.com",
+  "client_id": "104175008524099304391",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40earlydetectionchronicdiseases.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
