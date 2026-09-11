@@ -1,0 +1,5 @@
+USERS_COLLECTION = "users"
+PREDICTIONS_COLLECTION = "predictions"
+MEDICAL_HISTORY_COLLECTION = "medical_history"
+APPOINTMENTS_COLLECTION = "appointments"
+REPORTS_COLLECTION = "reports"
